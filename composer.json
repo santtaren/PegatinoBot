@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-telegram-bot/core": "^3.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
